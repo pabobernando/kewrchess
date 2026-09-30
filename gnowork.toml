@@ -1,0 +1,6 @@
+gno = "0.9"
+
+use = [
+	"./p/chess",
+	"./r/kewrchess",
+]
